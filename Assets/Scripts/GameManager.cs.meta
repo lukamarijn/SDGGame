@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bf6b4e160f5dc72498f13495e43e9304
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SnakeNorthButton: {fileID: 5958445684741893709, guid: 72f0307d64322174cb2a83885ae1c8aa,
+      type: 3}
+  - SnakeEastButton: {fileID: 526493768985741494, guid: b8befe73f5995c747aba3ee4d6cd00a1,
+      type: 3}
+  - SnakeSouthButton: {fileID: 2593525769552635318, guid: 3ce038bcab5e60245b3dbf78796fa566,
+      type: 3}
+  - SnakeWestButton: {fileID: 2350454515184098283, guid: 720522451c3b7034d897703c469b461b,
+      type: 3}
+  - snakePartsController: {instanceID: 0}
+  - snakeController: {instanceID: 0}
+  - spawnerController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

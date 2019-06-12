@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e6b1c81f0390ca84ab17f53a8d9173f6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nunito Light
+  fontNames:
+  - Nunito Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b95f3ce43997ed4bac55fa44f62aa8b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
